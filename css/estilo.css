@@ -1,0 +1,160 @@
+.PRIN{
+    background-color: rgb(215, 176, 117);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+   
+}
+.c1{
+    background-color: cadetblue;
+    width: 400px;
+    height: 900px;
+    float: left;
+    margin: 50px;
+   
+}
+.c2{
+    background-color: palegreen;
+    width: 400px;
+    height: 900px;
+    float: left;
+    margin-left: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+   
+
+}
+.c3{
+    background-color: palevioletred;
+    width: 400px;
+    height: 900px;
+    float: left;
+    margin-right: 0px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+
+}
+.c2-1{
+    width: 370px;
+    height: 150px;
+    background-color: burlywood;
+    position: relative;
+    left: 10px;
+    margin: 5px;
+
+}
+.c2-2{
+    width: 370px;
+    height: 150px;
+    background-color: burlywood;
+    position: relative;
+    left: 10px;
+    margin: 5px;
+
+}
+.c2-3{
+    width: 370px;
+    height: 150px;
+    background-color: burlywood;
+    position: relative;
+    left: 10px;
+    margin: 5px;
+
+}
+.c2-4{
+    width: 370px;
+    height: 150px;
+    background-color: burlywood;
+    position: relative;
+    left: 10px;
+    margin: 5px;
+
+}
+.c2-5{
+    width: 370px;
+    height: 150px;
+    background-color: burlywood;
+    position: relative;
+    left: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
+
+}
+.cajamedio{
+    width: 370px;
+    height: 100px;
+    background-color: burlywood;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
+
+}
+.cajita1{
+    width: 370px;
+    height: 100px;
+    background-color: burlywood;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
+
+}
+.cajita2{
+    width: 370px;
+    height: 100px;
+    background-color: burlywood;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.contenedor{
+    max-width: 1500px;
+    
+    display: block;
+}
+.box{
+    width: 100px;
+    height: 250px;
+    max-width: 1000px;
+    display: inline-block;
+    margin-left: 5px;
+    background: red;
+    margin-left: 22px;
+    margin-bottom: 10px;
+}
+.contenedor2{
+    max-width: 1500px;
+    
+    display: block;
+}
+.br{
+    width: 100px;
+    height: 150px;
+    max-width: 1000px;
+    display: inline-block;
+    margin-top: 22px;
+    margin-left: 5px;
+    background: orange;
+    margin-left: 22px;
+
+}
+.LL{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.L1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px; 
+    
+
+
+}
